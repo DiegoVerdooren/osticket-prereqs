@@ -33,7 +33,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://imgur.com/a/s00xfzy" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/88rQraA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 After creating the virtual machine through Azure, log into the vm and begin installing all the software for osTicket.  
